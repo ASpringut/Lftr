@@ -37,6 +37,7 @@ class HomeFragment : Fragment() {
 
     private fun createNewWorkout(){
         Log.d(TAG, "Creating New Workout")
+        (activity as MainActivity).navigateToCreateNewWorkout()
 
     }
 

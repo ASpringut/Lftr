@@ -3,4 +3,5 @@
     <string name="action_settings">Settings</string>
     <string name="welcome_text">Welcome to LFTR</string>
     <string name="startNewWorkout">Start New Workout</string>
+    <string name="new_workout">New Workout</string>
 </resources>

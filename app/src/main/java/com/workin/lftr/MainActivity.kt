@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
 
 class MainActivity : AppCompatActivity() {
-
+    //Test before transitioning to nav fragment
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -24,5 +24,4 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
-
 }
